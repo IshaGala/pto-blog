@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Annual Pharma Trade Expo",
+    "excerpt": "Discover the latest innovations in the pharmaceutical trade industry.",
+    "date": "July 25, 2026"
+  },
+  {
+    "id": 2,
+    "title": "Innovations in Medical Supply Chains",
+    "excerpt": "How digital transformation is reshaping global healthcare logistics.",
+    "date": "July 20, 2026"
+  },
+  {
+    "id": 3,
+    "title": "Future of Pharmaceutical Exports",
+    "excerpt": "Emerging markets and new opportunities for international trade.",
+    "date": "July 15, 2026"
+  },
+  {
+    "id": 4,
+    "title": "AI in Drug Manufacturing",
+    "excerpt": "Artificial Intelligence is improving production quality and efficiency.",
+    "date": "July 10, 2026"
+  }
+]

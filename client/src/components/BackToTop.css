@@ -1,0 +1,18 @@
+.top-btn{
+    position:fixed;
+    bottom:35px;
+    right:35px;
+    width:55px;
+    height:55px;
+    border:none;
+    border-radius:50%;
+    background:#0056b3;
+    color:white;
+    font-size:20px;
+    box-shadow:0 10px 25px rgba(0,0,0,.2);
+    z-index:999;
+}
+
+.top-btn:hover{
+    background:#003d80;
+}
