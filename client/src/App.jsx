@@ -17,7 +17,7 @@ function App() {
 
   useEffect(() => {
   axios
-    .get("http://localhost:5000/api/posts")
+    .get("https://pto-blog-api-y5jk.onrender.com/api/posts")
     .then((response) => {
       setPosts(response.data);
     })
